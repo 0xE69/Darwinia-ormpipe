@@ -20,7 +20,7 @@
     "@stdlib/string-pad": "^0",
     "winston": "^3",
     "cacache": "^18",
-    "ethers": "^6",
+    "ethers": "^6.13.1",
     "chalk": "^4"
   },
   "devDependencies": {
