@@ -24,8 +24,8 @@
     "@darwinia/ormpipe-relay-oracle": "^0.0.7",
     "@darwinia/ormpipe-relay-relayer": "^0.0.7",
     "@darwinia/ormpipe-integration": "^0.0.7",
-    "@oclif/core": "^2",
-    "@oclif/plugin-help": "^5",
+    "@oclif/core": "^4.0.0",
+    "@oclif/plugin-help": "^6.1.0",
     "camelize": "^1",
     "enquirer": "^2"
   },
