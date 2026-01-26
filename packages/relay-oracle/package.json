@@ -20,7 +20,7 @@
     "@darwinia/ormpipe-common": "^0.0.7",
     "@darwinia/ormpipe-indexer": "^0.0.7",
     "async": "^3",
-    "cacache": "^18",
+    "cacache": "^19.0.0",
     "chalk": "^4",
     "ethers": "^6"
   },
