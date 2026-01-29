@@ -19,7 +19,7 @@
   "dependencies": {
     "@stdlib/string-pad": "^0",
     "winston": "^3",
-    "cacache": "^18",
+    "cacache": "^19.0.0",
     "ethers": "^6",
     "chalk": "^4"
   },
